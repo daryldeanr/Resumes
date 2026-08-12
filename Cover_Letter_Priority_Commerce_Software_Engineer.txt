@@ -1,0 +1,26 @@
+Daryl Roudebush
+Alexandria, OH 43001 | 740.817.1655 | daryldeanr@gmail.com
+
+August 12, 2026
+
+Hiring Manager
+Priority Commerce
+Re: Software Engineer
+
+Dear Hiring Manager,
+
+I am writing to apply for the Software Engineer role at Priority Commerce. Your mission to streamline payables, acquiring, and treasury through a unified platform resonates with how I approach software: build secure, maintainable systems that improve operational flow and deliver measurable results. With well over three to five years of professional development experience—and more than a decade modernizing and supporting business-critical Microsoft applications—I am excited to contribute to Priority’s core fintech systems.
+
+My core strengths map closely to your requirements. I develop in C# and JavaScript, build and maintain server-side .NET applications (including ASP.NET MVC and Web API), and work extensively with Microsoft SQL Server—writing and owning T-SQL procedures, functions, and jobs that underpin production workflows. At MedBen, I engineered a Flexible Spending Account system to replace a legacy platform, collaborated on inbound/outbound eligibility processing, and enhanced a client-facing web portal for analytics and reporting. At Heating And Cooling Products, I modernized desktop applications across business units, improved operational reporting, and supported production systems in a fast-moving environment. Earlier, at Tsunami Software, I helped convert a VB6 order entry application to ASP.NET MVC4—experience that reflects the same balance of feature delivery, quality, and maintainability you describe.
+
+I am accustomed to working across product, operations, and technical stakeholders; participating in iterative delivery; and owning solutions through support and enhancement. Much of my career has been in regulated, transaction-oriented domains—especially healthcare claims and benefits processing—where accuracy, security awareness, and careful testing matter. I write and refine solutions with maintainability in mind, diagnose production issues within my ownership, and continuously improve reliability and performance through incremental change.
+
+I also practice responsible AI-assisted engineering. In my recent freelance and day-to-day development work, I use tools such as Cursor AI for pair programming, code generation, refactoring, test ideas, and documentation support. I treat AI as a productivity and consistency accelerator while applying sound design judgment and fully owning the code I ship—aligning with Priority’s expectations for modern development practices.
+
+I would welcome the chance to help Priority Commerce deliver reliable, well-tested features that strengthen platform stability and accelerate client outcomes. Thank you for your time and consideration.
+
+Sincerely,
+
+Daryl Roudebush
+740.817.1655
+daryldeanr@gmail.com
