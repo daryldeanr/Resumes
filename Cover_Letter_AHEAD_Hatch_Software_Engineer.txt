@@ -1,0 +1,28 @@
+Daryl Roudebush
+Alexandria, OH 43001 | 740.817.1655 | daryldeanr@gmail.com
+
+August 17, 2026
+
+Hiring Manager
+AHEAD
+Re: Software Engineer – Hatch
+
+Dear Hiring Manager,
+
+I am writing to apply for the Software Engineer role supporting Hatch and Unity. What stands out about AHEAD is the focus on real products that ship, continuous learning, and building strong engineering judgment—especially in how AI tools are used with care rather than blindly. That combination matches how I work and how I want to keep growing.
+
+I bring solid software fundamentals from delivering full-stack and server-side business applications in C#, ASP.NET MVC, JavaScript, HTML/CSS, and SQL Server. Across healthcare, manufacturing, and retail, I have contributed to features end to end: implementing, testing, debugging, supporting production systems, and modernizing legacy platforms into maintainable solutions. At MedBen, I built a Flexible Spending Account system to replace an obsolete platform and enhanced a client-facing web portal. At Heating And Cooling Products, I modernized applications across business units and improved data workflows and reporting. At Tsunami Software, I helped convert a VB6 order entry application to ASP.NET MVC4. Those experiences taught me to care about the user and the business outcome—not just closing a ticket—and to write reliable, well-tested code I am prepared to own.
+
+Most recently, I have been building a suite of tools for a hardware store that brings product lookup, store inventory control, product grouping with tags, and physical retail barcode label creation into one application. I designed and developed that suite as a full-stack product with a React front end and a Python backend, using Cursor AI throughout to accelerate scaffolding, implementation, and iteration—while carefully reviewing, testing, and owning every piece of code that ships. That project reflects the kind of end-to-end feature work, product mindset, and responsible AI-assisted engineering AHEAD describes for Hatch.
+
+I do not have prior Elixir or Phoenix experience, and I am eager to learn both. I am comfortable picking up new languages and tools as problems demand, and I am motivated by environments where curiosity is part of the job. Beyond the hardware-store suite, I continue to use AI coding tools and agents for exploration, tests, refactoring, and research, then verify and harden what I ship. I treat AI as a way to learn and contribute faster while keeping clear ownership of design and quality.
+
+I collaborate well with teammates and stakeholders, communicate directly, ask good questions, and see work through. I would welcome the chance to contribute to Hatch’s IT lifecycle platform, grow toward owning features with mentorship from your team, and keep leveling up both fundamentals and modern AI-assisted engineering practices.
+
+Thank you for your time and consideration. I am happy to share additional examples of how I build and how I work with AI tools.
+
+Sincerely,
+
+Daryl Roudebush
+740.817.1655
+daryldeanr@gmail.com

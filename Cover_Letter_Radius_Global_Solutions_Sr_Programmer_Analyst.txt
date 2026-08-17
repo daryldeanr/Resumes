@@ -1,0 +1,26 @@
+Daryl Roudebush
+Alexandria, OH 43001 | 740.817.1655 | daryldeanr@gmail.com
+
+August 17, 2026
+
+Hiring Manager
+Radius Global Solutions LLC
+Re: Senior Programmer/Analyst – C# / .NET / SSIS
+
+Dear Hiring Manager,
+
+I am writing to apply for the remote Senior Programmer/Analyst position at Radius Global Solutions. With extensive experience developing and supporting C#/.NET applications, SQL Server solutions, and file-based client interfaces, I am well prepared to build, maintain, and troubleshoot the inbound and outbound integrations that support your accounts receivable and customer relations platforms.
+
+My background centers on Microsoft development and data movement. I am proficient in C# and .NET, and I work extensively with SQL Server—writing and optimizing queries, procedures, functions, and jobs that keep business workflows reliable under changing priorities. A strong part of my experience involves programming to client-specific file layouts: at Plan2Account, I architected and executed ETL solutions for EDI X12 837 and 835 healthcare transaction files, ensuring accurate ingestion, integrity, and reporting across large data sets. That work required careful mapping to defined layouts, thorough testing, and ongoing support when formats or volumes changed—directly aligned with creating and improving client interfaces.
+
+At MedBen, I engineered a Flexible Spending Account system to replace a legacy platform, collaborated on inbound/outbound eligibility processing, and enhanced a client-facing portal for analytics and reporting. Across MedBen, Heating And Cooling Products, and contract engagements, I have designed, tested, and implemented solutions; troubleshot production defects and performance issues; and maintained clear functional and operational documentation. I work independently, communicate clearly with stakeholders, and stay organized when juggling multiple assignments and deadlines.
+
+While my deepest domain experience is in healthcare financial and benefits processing rather than traditional accounts receivable collections, I am accustomed to regulated, transaction-oriented environments, client-driven layouts, and audit-minded process discipline—experience I can apply quickly to RGS’s AR and CRM solutions.
+
+I would welcome the opportunity to contribute as a Senior Programmer/Analyst supporting Radius Global Solutions’ interface development and production stability. Thank you for your time and consideration.
+
+Sincerely,
+
+Daryl Roudebush
+740.817.1655
+daryldeanr@gmail.com
