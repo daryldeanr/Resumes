@@ -1,0 +1,25 @@
+Daryl Roudebush
+Alexandria, OH 43001 | 740.817.1655 | daryldeanr@gmail.com
+
+August 17, 2026
+
+Hiring Manager
+Re: Software Engineer – Full Stack (React / C# .NET)
+
+Dear Hiring Manager,
+
+I am writing to apply for the full-stack Software Engineer position. I am motivated by teams that expect engineers to own work across the stack—shipping responsive React interfaces, solid C#/.NET services, and well-tested features with honesty, grit, and collaboration. With well over two to four years of professional software development experience, I am ready to contribute immediately and keep growing with your platform.
+
+My back-end foundation is strongest in C# and .NET. I have designed, developed, and maintained business applications and APIs using ASP.NET MVC, Web API, and related Microsoft technologies, working extensively with SQL Server—including T-SQL procedures, functions, and jobs. At MedBen, I engineered a Flexible Spending Account system to replace a legacy platform, collaborated on inbound/outbound eligibility processing, and enhanced a client-facing web portal. At Heating And Cooling Products, I modernized applications across business units and supported production workflows. At Tsunami Software, I helped convert a VB6 order entry application to ASP.NET MVC4. Across these roles I have debugged issues across the stack, collaborated with stakeholders to define and ship features, and written maintainable, documented code in agile environments.
+
+On the front end, I most recently built a suite of tools for a hardware store that unifies product lookup, store inventory control, product grouping with tags, and physical retail barcode label creation in one application. That suite uses a React front end with a Python backend, and I developed it end to end—designing reusable UI flows, integrating with back-end services, and iterating quickly with Cursor AI while reviewing, testing, and owning the code I ship. Combined with my C#/.NET and SQL Server experience, this reflects the full-stack mix your team needs: React for responsive interfaces, .NET for robust services, and relational data skills for real business workflows.
+
+I bring strong problem-solving skills, clear written and verbal communication, and the ability to work independently as well as on a team. I participate fully in agile delivery—planning, shipping, and improving—and I am eager to deepen React patterns (including state management and TypeScript) while continuing to strengthen C#/.NET API and service design.
+
+I would welcome the opportunity to join your engineering team, help improve user experience, and ship features that grow the platform. Thank you for your time and consideration.
+
+Sincerely,
+
+Daryl Roudebush
+740.817.1655
+daryldeanr@gmail.com

@@ -1,0 +1,27 @@
+Daryl Roudebush
+Alexandria, OH 43001 | 740.817.1655 | daryldeanr@gmail.com
+
+August 17, 2026
+
+Hiring Manager
+Fusion Genius
+careers@fusiongenius.com
+Re: Application Developer (Remote) – C# / ASP.NET
+
+Dear Hiring Manager,
+
+I am writing to apply for the remote Application Developer role at Fusion Genius. With well over four years of professional programming experience—and more than a decade delivering and modernizing Microsoft-based business systems—I offer the C#, ASP.NET MVC, SQL Server, and legacy-support background described in your preferred qualifications.
+
+I am proficient in C# and ASP.NET MVC and have repeatedly supported and rewritten legacy Microsoft applications into more maintainable platforms. At Tsunami Software, I helped convert a VB6 order entry application to ASP.NET MVC4. At MedBen, I engineered a Flexible Spending Account system to replace an obsolete legacy platform, collaborated on inbound/outbound eligibility processing, and enhanced a client-facing ASP.NET web portal focused on analytics and reporting. At Heating And Cooling Products, I modernized custom Windows desktop applications across business units and maintained complex SQL Server procedures, functions, and jobs that power day-to-day operations.
+
+On the web and data side, I bring hands-on experience with HTML, CSS, JavaScript, SQL, and SQL Server, including T-SQL development for procedures, functions, and automated jobs. Across healthcare, manufacturing, and retail projects, I have applied object-oriented design to build reliable, workflow-driven solutions and keep production systems stable while they evolve. I also work comfortably in remote and contract settings, delivering clear documentation, tested deliverables, and responsive support.
+
+In my recent freelance work, I use coding AI tools such as Cursor AI to reduce development time, strengthen testing scenarios, and produce cleaner, more efficient code—always pairing those tools with careful review and ownership of what I ship. While my domain background is strongest in healthcare and manufacturing rather than Property & Casualty insurance, I am accustomed to regulated, data-intensive business rules and can transfer that discipline quickly.
+
+I would welcome the opportunity to discuss how my C#, ASP.NET MVC, SQL Server, and legacy modernization experience can support Fusion Genius. Thank you for your time and consideration. I am submitting my resume as requested to careers@fusiongenius.com.
+
+Sincerely,
+
+Daryl Roudebush
+740.817.1655
+daryldeanr@gmail.com
